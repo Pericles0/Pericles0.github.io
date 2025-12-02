@@ -7,7 +7,6 @@
 #define N 9
 
 //the function coin returns the maximum number of possible coins and prints the path along the way.
-//level represents what row the first element of a triangle is.
 
 long coin(int**arr , int n , unsigned char* path){
 
